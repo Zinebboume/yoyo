@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_2</folder>
+	<filename>imes.jpg</filename>
+	<path>C:\Users\dsben\OneDrive\Source\Source\Comptage_De_Vache\Projet_Finale_Comptage_De_Vache\TensorFlow-2.x-YOLOv3\custom_dataset\train_2\imes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>6</ymin>
+			<xmax>259</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

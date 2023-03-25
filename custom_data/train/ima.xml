@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_2</folder>
+	<filename>ima.jpg</filename>
+	<path>C:\Users\dsben\OneDrive\Source\Source\Comptage_De_Vache\Projet_Finale_Comptage_De_Vache\TensorFlow-2.x-YOLOv3\custom_dataset\train_2\ima.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>7</ymin>
+			<xmax>227</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>
